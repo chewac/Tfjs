@@ -1,0 +1,29 @@
+{
+  "name": "tfjs",
+  "version": "1.0.0",
+  "description": "Tensorflow js object classification",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chewac/Tfjs.git"
+  },
+  "keywords": [
+    "Tensorflow",
+    "js",
+    "object",
+    "classification",
+    "heroku"
+  ],
+  "author": "Kirill Piddubko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chewac/Tfjs/issues"
+  },
+  "homepage": "https://github.com/chewac/Tfjs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
