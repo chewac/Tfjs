@@ -4,3 +4,9 @@
 
 
 
+
+
+
+----------------------------------------------
+copy 3 files from www folder to run locally
+
